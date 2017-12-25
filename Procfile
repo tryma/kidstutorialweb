@@ -1,1 +1,1 @@
-web: gunicorn kids_tutorial.wsgi --log-file -
+web: gunicorn kidstutorialweb.wsgi --log-file -
