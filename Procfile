@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath kids_tutorial kids_tutorial.wsgi 
+web: gunicorn kids_tutorial.wsgi --log-file -
