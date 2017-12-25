@@ -8,6 +8,13 @@ Django==1.11.7
 django-bootstrap3==9.1.0
 django-toolbelt==0.0.1
 future==0.16.0
+google-api-core==0.1.2
+google-auth==1.2.1
+google-cloud-core==0.28.0
+google-cloud-storage==1.6.0
+google-gax==0.15.16
+google-resumable-media==0.3.1
+googleapis-common-protos==1.5.3
 grpcio==1.7.3
 gunicorn==19.7.1
 idna==2.6
