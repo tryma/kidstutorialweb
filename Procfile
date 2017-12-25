@@ -1,1 +1,1 @@
-web: gunicorn kidstutorialweb.wsgi
+web: gunicorn kids_tutorial.wsgi
